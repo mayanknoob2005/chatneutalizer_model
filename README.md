@@ -28,8 +28,8 @@
 7) **Run the Script**  
    - Execute `tele_sender.py`.
 
-8) **Enter API Key**  
-   - A dialog box will pop up. Enter the API key to send messages.
+8) **Enter Message **  
+   - A dialog box will pop up. Enter the messages to send.
 
 9) **Send Messages**  
    - Successfully send messages. Continue sending new messages or type `@exit` to terminate the program.
